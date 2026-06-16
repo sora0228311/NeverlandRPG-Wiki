@@ -1,7 +1,5 @@
 # NeverlandRPG-Wiki
 
-# NeverlandRPG Wiki
-
 ## 初めての方へ
 - [初心者ガイド](getting-started/beginner-guide.md)
 - [コマンド一覧](getting-started/commands.md)
@@ -31,7 +29,10 @@
 ## システム
 - [クラフト](crafting/blacksmith.md)
 - [ストーンシステム](crafting/stones.md)
-
+- [釣りシステム](gather/fishing.md)
+- [採掘システム](gather/mining.md)
+- [伐採システム](gather/felling.md)
+ 
 ## 経済
 - [相場情報](economy/market-price.md)
 
