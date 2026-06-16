@@ -26,7 +26,7 @@
 
 ## アイテム
 - [アイテム一覧](items/item-list.md)
-  [素材一覧](items/material-list.md)
+-[素材一覧](items/material-list.md)
 
 ## システム
 - [クラフト](crafting/blacksmith.md)
