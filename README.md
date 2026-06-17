@@ -40,6 +40,7 @@ Neverland RPG Season１[消え逝く世界]
 - [素材一覧](items/material-list.md)
 
 ## システム
+- [レベリング](leveling/LV.md)
 - [クラフト](crafting/blacksmith.md)
 - [ストーンシステム](crafting/stones.md)
 - [釣りシステム](gather/fishing.md)
@@ -48,6 +49,7 @@ Neverland RPG Season１[消え逝く世界]
  
 ## 経済
 - [相場情報](economy/market-price.md)
+- [金策](economy/raise-money.md)
 
 ## アップデート
 - [更新履歴](updates/changelog.md)
